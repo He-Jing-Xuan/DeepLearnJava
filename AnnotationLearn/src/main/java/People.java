@@ -1,6 +1,6 @@
-
+@MyAnnotation()
 public class People {
-    private String name;
+    String name;
     private String age;
 
     public People(String name, String age) {
@@ -17,5 +17,10 @@ public class People {
 
     public void walk(){
         System.out.println("行走");
+    }
+
+    @Override
+    public String toString() {
+        return "name:"+name;
     }
 }
