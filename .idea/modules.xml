@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" filepath="$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearnJava.iml" filepath="$PROJECT_DIR$/.idea/DeepLearnJava.iml" />
+    </modules>
+  </component>
+</project>
