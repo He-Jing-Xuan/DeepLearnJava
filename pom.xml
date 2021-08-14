@@ -19,6 +19,7 @@
         <module>ThreadLearn</module>
         <module>JavaSPI</module>
         <module>DesignModel</module>
+        <module>DataStruct</module>
     </modules>
 
 
