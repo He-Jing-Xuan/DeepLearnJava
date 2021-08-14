@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" filepath="$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearnJava.iml" filepath="$PROJECT_DIR$/.idea/DeepLearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSPI/JavaSPI.iml" filepath="$PROJECT_DIR$/JavaSPI/JavaSPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadLearn/ThreadLearn.iml" filepath="$PROJECT_DIR$/ThreadLearn/ThreadLearn.iml" />
     </modules>
   </component>

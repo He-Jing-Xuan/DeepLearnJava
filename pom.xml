@@ -17,6 +17,7 @@
     </dependencies>
     <modules>
         <module>ThreadLearn</module>
+        <module>JavaSPI</module>
     </modules>
 
 
