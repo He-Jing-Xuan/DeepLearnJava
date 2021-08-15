@@ -7,4 +7,9 @@ public class Orange implements Fruit {
     public void eat() {
         System.out.println("橘子");
     }
+
+    @Override
+    public void walk() {
+        System.out.println("橘子");
+    }
 }

@@ -20,6 +20,7 @@
         <module>JavaSPI</module>
         <module>DesignModel</module>
         <module>DataStruct</module>
+        <module>SpringLearn</module>
     </modules>
 
 
