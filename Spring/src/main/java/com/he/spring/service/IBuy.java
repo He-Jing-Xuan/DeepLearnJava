@@ -1,4 +1,4 @@
-package com.he;
+package com.he.spring.service;
 
 public interface IBuy {
     String buy();
