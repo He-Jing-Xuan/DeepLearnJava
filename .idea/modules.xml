@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" filepath="$PROJECT_DIR$/AnnotationLearn/AnnotationLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicJava/BasicJava.iml" filepath="$PROJECT_DIR$/BasicJava/BasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/DataStruct.iml" filepath="$PROJECT_DIR$/DataStruct/DataStruct.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearnJava.iml" filepath="$PROJECT_DIR$/.idea/DeepLearnJava.iml" />
+      <module fileurl="file://$USER_HOME$/DeepLearnJava/DeepLearnJava2.iml" filepath="$USER_HOME$/DeepLearnJava/DeepLearnJava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignModel/DesignModel.iml" filepath="$PROJECT_DIR$/DesignModel/DesignModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSPI/JavaSPI.iml" filepath="$PROJECT_DIR$/JavaSPI/JavaSPI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ThreadLearn/ThreadLearn.iml" filepath="$PROJECT_DIR$/ThreadLearn/ThreadLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLea/ThreadLea.iml" filepath="$PROJECT_DIR$/ThreadLea/ThreadLea.iml" />
+      <module fileurl="file://$USER_HOME$/DeepLearnJava/demo/demo.iml" filepath="$USER_HOME$/DeepLearnJava/demo/demo.iml" />
     </modules>
   </component>
 </project>

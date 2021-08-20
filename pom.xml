@@ -20,6 +20,9 @@
         <module>DesignModel</module>
         <module>DataStruct</module>
         <module>SpringLearn</module>
+        <module>BasicJava</module>
+        <module>ThreadLearn</module>
+        <module>ThreadLea</module>
     </modules>
 
 

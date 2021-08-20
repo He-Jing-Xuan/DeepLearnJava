@@ -6,22 +6,13 @@ import java.util.Objects;
 import java.util.Set;
 
 public class MapTest {
-    public static void main(String[] args) {
-        Map<User,Integer> map =new HashMap<>();
-        User user = new User("小贺","2");
-        User user1 = new User("小谢","3");
-        map.put(user,1);
-        System.out.println(user.hashCode());
-        user.setAge("5");
-        map.put(user,3);
-        System.out.println(user.hashCode());
-        System.out.println(map.get(user)+""+map.containsKey(user));
-        map.put(user1,3);
-        Set<User> users =map.keySet();
-        for(User user2 :users){
-            System.out.println(user2);
-        }
+    final int a=2;
+    static final int b=1;
+    int c=3;
+    {
+        c=4;
     }
+    static void fun(){}
 
     static class User {
         private String name;

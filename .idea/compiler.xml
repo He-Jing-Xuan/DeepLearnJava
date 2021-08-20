@@ -7,16 +7,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DataStruct" />
+        <module name="DesignModel" />
+        <module name="DeepLearnJava2" />
         <module name="JavaSPI" />
+        <module name="BasicJava" />
         <module name="AnnotationLearn" />
-        <module name="ThreadLearn" />
+        <module name="ThreadLea" />
+        <module name="Spring" />
+        <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AnnotationLearn" target="7" />
+      <module name="BasicJava" target="8" />
+      <module name="DataStruct" target="8" />
       <module name="DeepLearnJava" target="1.5" />
+      <module name="DeepLearnJava2" target="8" />
+      <module name="demo" target="1.8" />
+      <module name="DesignModel" target="8" />
       <module name="JavaSPI" target="8" />
-      <module name="ThreadLearn" target="1.5" />
+      <module name="Spring" target="1.8" />
+      <module name="SpringLearn" target="8" />
+      <module name="ThreadLea" target="8" />
+      <module name="ThreadLearn" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring" options="-parameters" />
+      <module name="demo" options="-parameters" />
+    </option>
   </component>
 </project>

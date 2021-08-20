@@ -5,7 +5,16 @@
       <list>
         <option value="$PROJECT_DIR$/AnnotationLearn/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/DeepLearnJava/pom.xml" />
+        <option value="$USER_HOME$/DeepLearnJava/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SpringLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadLearn/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
